@@ -32,10 +32,10 @@ tweet_file = open(file1,'w')
 
 
 # Michael Odbert's Developer Tokens
-consumer_token = 'pIubFkHGHlWgsNfMUcKojQ'
-consumer_secret = 'Nv0SFKFzkYoE2QXKTR0AI8NXXwQ9bHhrSNs7XnFSZE'
-access_token = '1917597648-5TQv2XdDWQp5MixZJ60u7IRmB82aEK0uaJh7Aay'
-access_secret = '2GB7F6pmGPVBFNjZewEwDIEOTbWM85fKKmwJjhzHXCM'
+consumer_token = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 # Authentication code for access to twitter stream
 auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
